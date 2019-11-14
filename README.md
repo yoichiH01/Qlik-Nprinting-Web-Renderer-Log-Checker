@@ -12,7 +12,7 @@
 2. Collect Qlik Nprinting Web Renderer logs from Nprinting Engine machine and copy them into a folder where is reachable from Qlikiew Desktop
 3. Open "NP_WebRendererLog-Checker-v1.0.qvw" using QlikView Desktop.
 4. At "Qlik Nprinting Web Renderer Log Path" section on Configuration Sheet, Enter path where you stored Web Renderer logs in No2.
-  By default the path is set to "C:\yheTemp\Nprinting\reporting_web_renderer_logs\", please change it based on your environment
+  By default the path is set to "C:\yheTemp\Nprinting\reporting_web_renderer_logs\", please change it to fit to your environment
 5. Click Reload button on Configuration Sheet. Logs will be loaded into the app
 6. Go to "Logs" Tab and see the data
 
